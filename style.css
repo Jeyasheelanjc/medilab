@@ -250,6 +250,13 @@ h6 {
     .navbars{
         margin: 0  10px !important;
     }
+     .end{
+        text-align: center !important;
+        justify-content: center !important;
+    }
+    .footlinks{
+        justify-content: center !important;
+    }
 }
 /*  */
 
