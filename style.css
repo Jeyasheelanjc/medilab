@@ -257,6 +257,9 @@ h6 {
     .footlinks{
         justify-content: center !important;
     }
+    .formpad{
+        padding: 0 !important;
+    }
 }
 /*  */
 
